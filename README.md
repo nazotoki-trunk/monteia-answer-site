@@ -1,11 +1,9 @@
-# モンテイア 第一幕の謎解き解説
+# モンテイア 謎解き解説
 
-「モンテイア」第一幕の解説を、文章と画像で掲載する静的サイトです。
+「モンテイア」の謎解きを、文章と画像で解説する静的サイトです。
 予約管理システムとは独立して動作します。
 
-公開ページ：[第一幕の謎解き解説](https://nazotoki-trunk.github.io/monteia-answer-site/)
-
-![サイトのプレビュー](docs/site-preview.jpg)
+公開ページ：[謎解き解説](https://nazotoki-trunk.github.io/monteia-answer-site/)
 
 ## ファイル構成
 
